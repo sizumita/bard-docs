@@ -1,7 +1,8 @@
 {
-  "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "index": "イントロダクション",
+  "get-started": "始め方",
+  "default": "一般コマンド",
+  "guild-preference": "サーバー設定コマンド",
+  "user-preference": "ユーザー設定コマンド",
+  "replacement": "サーバー辞書コマンド"
 }
