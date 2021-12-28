@@ -16,23 +16,23 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="ja" />
-      <meta name="description" content="Bard: the discord TTS bot" />
-      <meta name="og:description" content="Bard: the discord TTS bot" />
+      <meta name="description" content="Bard: Discord読み上げBot" />
+      <meta name="og:description" content="Bard: Discord読み上げBot" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://docs.bardbot.net/og.png" />
       <meta name="twitter:site:domain" content="docs.bardbot.net" />
       <meta name="twitter:url" content="https://docs.bardbot.net" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      {/*<meta name="og:image" content="https://nextra.vercel.app/og.png" />*/}
+      <meta name="og:title" content="Bard: Discord読み上げBot ドキュメント" />
+      <meta name="og:image" content="https://docs.bardbot.net/og.png" />
       <meta name="apple-mobile-web-app-title" content="Bard-Docs" />
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  search: true,
+  search: false,
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
+  footerEditLink: '',
   footerText: <>MIT {new Date().getFullYear()} © sizumita.</>,
   unstable_faviconGlyph: '👋',
 }

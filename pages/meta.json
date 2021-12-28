@@ -1,8 +1,16 @@
 {
-  "index": "イントロダクション",
+  "index": "トップ",
   "get-started": "始め方",
-  "default": "一般コマンド",
-  "guild-preference": "サーバー設定コマンド",
-  "user-preference": "ユーザー設定コマンド",
-  "replacement": "サーバー辞書コマンド"
+  "help": "ヘルプコマンド",
+  "start": "読み上げ開始コマンド",
+  "end": "読み上げ終了コマンド",
+  "setting": "設定確認コマンド",
+  "change_voice": "音声設定変更コマンド",
+  "change_speed": "音声速さ変更コマンド",
+  "change_pitch": "音声高さ変更コマンド",
+  "dict": "読み上げ辞書コマンド",
+  "activate": "アクティベートコマンド",
+  "change_setting": "サーバー設定変更コマンド",
+  "dashboard": "ダッシュボード",
+  "management": "その他管理コマンド"
 }
